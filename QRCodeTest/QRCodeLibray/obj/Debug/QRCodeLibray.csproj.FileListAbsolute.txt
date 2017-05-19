@@ -1,0 +1,9 @@
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\bin\Debug\QRCodeLibray.dll
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\bin\Debug\QRCodeLibray.pdb
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\bin\Debug\zxing.pdb
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\bin\Debug\zxing.xml
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\bin\Debug\zxing.presentation.pdb
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\bin\Debug\zxing.presentation.xml
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\obj\Debug\QRCodeLibray.csprojResolveAssemblyReference.cache
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\obj\Debug\QRCodeLibray.dll
+C:\Users\Jundat95\Desktop\rap chen\project\QRCodeTest\QRCodeLibray\obj\Debug\QRCodeLibray.pdb
